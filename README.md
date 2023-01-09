@@ -1,8 +1,5 @@
 ![Projeto de Pokedex](https://i.imgur.com/d2BelVg.jpg)
 
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/></p>
-
-
 ---
 
 ## **💻 Sobre**
@@ -24,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 - HTML5
 - CSS
 - ReactJs
-- Figma
+- JSX
 
 ---
 
